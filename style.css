@@ -1321,7 +1321,7 @@ details[open] summary::after {
 
 
 .download-section {
-    background: linear-gradient(#FFFFFF 50%, #f0f0f2 50%);
+    background: linear-gradient(#FFFFFF 25%, #f0f0f2 25%);
     opacity: 100%;
     padding: 60px 20px;
 }
@@ -1330,7 +1330,7 @@ details[open] summary::after {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(assets/dark bg.png); 
+    background-image: url(assets dark bg.pn); 
     background-color: #171717fd;
     border-radius: 50px;
     width: 330px; height: 300px;
