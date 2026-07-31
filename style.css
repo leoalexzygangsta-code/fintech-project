@@ -8,7 +8,7 @@
 body {
     background-color: #F3F3F5;
     padding: 0%; margin: 0%;
-    background-image: url(/assets/bg.png);
+    background-image: url(assets/bg.png);
     background-color: #F3F3F5;
     
 }
@@ -1330,7 +1330,7 @@ details[open] summary::after {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(/assets/dark\ bg.png); 
+    background-image: url(assets/dark bg.png); 
     background-color: #171717fd;
     border-radius: 50px;
     width: 330px; height: 300px;
