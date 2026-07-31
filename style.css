@@ -1323,17 +1323,17 @@ details[open] summary::after {
 .download-section {
     background: linear-gradient(#FFFFFF 50%, #f0f0f2 50%);
     opacity: 100%;
-    padding: 60px 20px;
+    padding: 60px 60px;
 }
 
 .download {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("assets/ dark bg.pn"); 
+    background-image: url("assets/dark bg.png"); 
     background-color: #171717fd;
     border-radius: 50px;
-    width: 280px; height: 300px;
+    width: 200px; height: 300px;
     padding: 8.5% 10px;
 }
 
