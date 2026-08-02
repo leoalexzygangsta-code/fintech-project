@@ -564,13 +564,13 @@ details[open] summary::after {
 
 .download {
     justify-content: center;
-    align-items: center;
+    align-items: center; justify-self:center;
     text-align: center;
     background-image: url("assets/dark bg.png"); 
     background-color: #171717fd;
     border-radius: 50px;
     width: 1000px;
-    padding: 5% 0%;
+    padding: 4.5% 0%;
 }
 
 .download h2 {
@@ -1407,7 +1407,7 @@ details[open] summary::after {
     background-color: #171717fd;
     border-radius: 50px;
     width: 300px; height: 300px;
-    padding: 8.5% 10px;
+    padding: 5% 10px;
 }
 
 .download h2 {
