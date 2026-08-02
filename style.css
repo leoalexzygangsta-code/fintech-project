@@ -818,7 +818,7 @@ header {
     background-color: #171717;
     color: #FFFFFF;
     border-radius: 50PX;
-    width:310px; margin: 40px 15px; 
+    width:310px; margin: 40px 10px; 
     padding: 10px 10px; border: none;
 }
 
@@ -901,6 +901,7 @@ h1 {
     padding: 3px;
     background-color: #E9E9E9;
     border-radius: 100px; width: 204px;
+    margin-top:10px;
 }
 
 .hero-logo h4{
