@@ -569,8 +569,8 @@ details[open] summary::after {
     background-image: url("assets/dark bg.png"); 
     background-color: #171717fd;
     border-radius: 50px;
-    width: 1000px;
-    padding: 7.82% 0%;
+    width: 800px;
+    padding: 4% 0%;
 }
 
 .download h2 {
