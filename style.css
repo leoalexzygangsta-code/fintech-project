@@ -1407,7 +1407,7 @@ details[open] summary::after {
     background-color: #171717fd;
     border-radius: 50px;
     width: 300px; height: 320px;
-    padding: 7% 10px;
+    padding: 8% 10px;
 }
 
 .download h2 {
@@ -1474,7 +1474,7 @@ button strong {
     background-color: #FFFFFF;
     display: flex; gap: 10px; align-items: center;
     border: none; color:  #171717;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 
