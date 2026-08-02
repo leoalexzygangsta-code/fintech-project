@@ -871,7 +871,7 @@ nav {
 /*hero section*/
 
 .hero {
-    padding: 0px 20px; margin: 0%;
+    padding: 0px 20px; margin: 0%;margin-top:10px;
     padding-bottom:0% ;
     display: block; overflow-x: hidden;
 }
