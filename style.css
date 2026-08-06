@@ -1547,7 +1547,7 @@ footer a {
 }
 
 .footer-content h4{
-    margin-top: 32px;
+    margin-top: 25px;
     font-family: "Manrope", sans-serif;
     font-size: 16px;
     font-weight: 600;
@@ -1579,7 +1579,7 @@ form {
     background-color: #FFFFFF;
     border-radius: 100px;
     padding: 5px 10px;
-    margin-top: 20px; margin-bottom: 15px;
+    margin-top: 10px; margin-bottom: 10px;
     gap: 10px;
 }
 
